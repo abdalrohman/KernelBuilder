@@ -1,0 +1,5 @@
+requests
+configparser
+tqdm
+loguru
+gitpython
